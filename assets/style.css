@@ -1,0 +1,22 @@
+html {
+    font-family: 'Varela Round', sans-serif;
+}
+
+body { 
+    margin: 0; font-family: 'Varela Round', sans-serif; 
+}
+
+/* Header formatting */
+.headerImage {
+    background: url("computerCodeLaptop.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5px
+}
+
+.headerBlock {
+    height: auto;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+}
