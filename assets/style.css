@@ -6,9 +6,27 @@ body {
     margin: 0; font-family: 'Varela Round', sans-serif; 
 }
 
+h2 {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+a:hover {
+    color: lightcoral;
+}
+
+hr {
+    background-color: lightcoral;
+    border-style: solid;
+    height: 1px;
+    width: 10%;
+}
+
 /* Header formatting */
 .headerImage {
-    background: url("computerCodeLaptop.png");
+    background: url("Images/computerCodeLaptop.png");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.5px
@@ -24,6 +42,9 @@ h1 span {
     color: #fafcff;
 }
 
+
+
+
 /* Profile section styling */
 .profileSection {
     background-color: #fafcff;
@@ -33,12 +54,44 @@ h1 span {
     text-align: center;
 }
 
-/* Projects styling */
+/* Portfolio styling */
 .portfolioSection {
     background-color: white;
     padding: 100px 0px 100px 0px;
-
 }
+
+.portfolioSection a {
+    color: #343a40;
+}
+
+.portfolioSection a:hover {
+    color: lightcoral;
+}
+
+.card {
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    display: flex;
+}
+
+.controls-top {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-chevron-right {
+    padding-left: 10px;
+}
+
+.fa-chevron-left {
+    padding-right: 10px;
+}
+
+
 
 /* Parallax bar styling */
 .parallaxBar {
@@ -54,6 +107,27 @@ h1 span {
     padding: 100px 0px 100px 0px;
 }
 
+.skill {
+    display: block;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.icon {
+    height: 175px;
+    width: 175px;
+    line-height: 175px;
+    max-width: 100%;
+    background: lightcoral;
+    border-radius: 50%;
+    display: block;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    margin: 0 auto 50px;
+}
+
 
 /* CV block styling */
 .CVDownload {
@@ -64,21 +138,20 @@ h1 span {
 }
 
 .CVbtn {
-    display: inline-block;
     padding: 25px 40px;
     color: #fff;
-    border: solid 1px #fff;
+    border: solid 1px white;
+    border-radius: .25rem;
     text-transform: uppercase;
-    font-weight: bold;
     letter-spacing: 1px;
 }
 
 
 /* Contact me styling */
 .contactMeBackground {
-    background: url("contactMeBackground.png");
+    background: url("Images/contactMeBackground.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 50%;
     padding-top: 25px;
     padding-bottom: 150px;
 }
@@ -89,4 +162,8 @@ footer {
     background-color: #343a40;
     color: white;
     padding: 30px 0px 30px 0px;
+}
+
+.socialIcons a {
+    padding: 5px;
 }
