@@ -76,6 +76,10 @@ h1 span {
     text-align: center;
 }
 
+.carousel-example-multi {
+    min-width: -webkit-fill-available;
+}
+
 .carousel-item-next, .carousel-item-prev, .carousel-item.active {
     display: flex;
 }
