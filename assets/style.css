@@ -76,7 +76,7 @@ h1 span {
     text-align: center;
 }
 
-.carousel-example-multi {
+#carousel-example-multi {
     min-width: -webkit-fill-available;
 }
 
@@ -84,8 +84,7 @@ h1 span {
     display: flex;
 }
 
-.controls-top {
-    display: flex;
+.centerControls {
     justify-content: center;
 }
 
@@ -108,13 +107,6 @@ h1 span {
     background-color: rgb(224, 103, 103);
     border: rgb(224, 103, 103);
 }
-
-
-/* @media only screen and (max-width: 600px) {
-    .carousel-item {
-      background-color: lightblue;
-    }
-  } */
 
 
 
@@ -180,7 +172,7 @@ h1 span {
 }
 
 .centreBtn > div {
-    justify-content: center;
+    text-align: center;
 }
 
 .CVDownload a:hover {
