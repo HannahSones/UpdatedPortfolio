@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
+    // initiates carousel scrolling
     $('.carousel.carousel-multi-item.v-2 .carousel-item').each(function(){
         const next = $(this).next();
         if (!next.length) {
