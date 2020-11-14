@@ -4,7 +4,7 @@ A personal portfolio page to showcase examples of my current applications as wel
 ## Table of contents
 * [About](#about-the-project)
   * [Built using](#built-using)
-* [Usage](#usage)
+* [Functionality](#functionality)
 * [Further Development](#further-development)
 * [Link to application](#link-to-deployed-application)
 * [License](License)
