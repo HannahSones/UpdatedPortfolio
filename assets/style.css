@@ -56,6 +56,15 @@ h1 span {
     text-align: center;
 }
 
+.headshot {
+    width: 200px;
+    height: 250px;
+}
+
+.cntrImg {
+    justify-content: center;
+}
+
 /* Portfolio styling */
 .portfolioSection {
     background-color: white;
