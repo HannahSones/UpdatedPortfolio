@@ -26,6 +26,7 @@ hr {
     width: 10%;
 }
 
+
 /* Header formatting */
 .headerImage {
     background: url("Images/computerCodeLaptop.png");
@@ -64,6 +65,7 @@ h1 span {
 .cntrImg {
     justify-content: center;
 }
+
 
 /* Portfolio styling */
 .portfolioSection {
