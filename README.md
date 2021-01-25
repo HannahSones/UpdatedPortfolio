@@ -12,9 +12,9 @@ A personal portfolio page to showcase examples of my current applications as wel
 ----------
 
 ## About the project
-Further building on my exisitng HTML, CSS and JavaScript skills, I have built a mobile-firt, responsive portfolio to showcase my expierence. The site includes a brief profile of myself, along with six examples of previous work including the most recent group project. It also highlights some of the key skills I've learned during the first third of the University of Birmingham's coding camp and an up-to-date CV.
+Further building on my exisitng HTML, CSS and JavaScript skills, I have built a mobile-firt, responsive portfolio to showcase my expierence. The site includes a brief profile of myself, along with six examples of previous work including the most recent group project. It also highlights some of the key skills I've learnt during the first third of the University of Birmingham's coding camp and includes an up-to-date CV.
 
-To ensure mobile responsiveness, I used Bootstrap and it's grid system to design and customize the site. 
+To ensure mobile responsiveness, I used Bootstrap and it's grid system to design and customize the site.
 
 ## Built using
 * JavaScript
@@ -22,6 +22,7 @@ To ensure mobile responsiveness, I used Bootstrap and it's grid system to design
 * HTML
 * CSS
 * Bootstrap
+* AOS animation library
 
 ----------
 
@@ -31,11 +32,11 @@ To ensure mobile responsiveness, I used Bootstrap and it's grid system to design
 
 -------------
 ## Further Development
-* When I have more time, I'd like to use this project as an opportunity to experiment with different animations and further develop my CSS and JavaScript skills. I'd like to introduce elements to the page dynamically using animations on scroll rather than having static elements to make the page more engaging.
+* When I first built the site, I had said that I wanted to explore the use of animations when I had more time. I have since been able to research this and using the AOS animation library, I have been able to create animations on scroll which bring the site to life and make it more engaging for users.
 
 --------------
 ## Link to deployed application
-https://hannahsones.github.io/UpdatedPortfolio/
+
 
 ------------
 ## License
