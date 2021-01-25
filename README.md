@@ -37,6 +37,7 @@ To ensure mobile responsiveness, I used Bootstrap and it's grid system to design
 --------------
 ## Link to deployed application
 
+https://hannahsones.github.io/UpdatedPortfolio/
 
 ------------
 ## License
