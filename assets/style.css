@@ -29,7 +29,7 @@ hr {
 
 /* Header formatting */
 .headerImage {
-    background: url("images/computerCodeLaptop.png");
+    background: url("img/computerCodeLaptop.png");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.5px
@@ -124,7 +124,7 @@ h1 span {
 
 /* Parallax bar styling */
 .parallaxBar {
-    background-image: url("images/LightbulbIdea.png");
+    background-image: url("img/LightbulbIdea.png");
     padding-top: 50px;
     padding-bottom: 50px;
 
@@ -195,7 +195,7 @@ h1 span {
 
 /* Contact me styling */
 .contactMeBackground {
-    background: url("images/contactMeBackground.png");
+    background: url("img/contactMeBackground.png");
     background-repeat: no-repeat;
     background-size: 100% 50%;
     padding-top: 25px;
